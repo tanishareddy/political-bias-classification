@@ -1,0 +1,15 @@
+# Credentials and secrets
+kaggle.json
+.env
+*.pem
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local datasets and model artifacts
+data/
+*.joblib
